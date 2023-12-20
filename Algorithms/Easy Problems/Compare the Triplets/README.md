@@ -2,6 +2,6 @@
 
 <br>
 
-## The Problem: [Hackerrank Link]([https://leetcode.com/problems/add-two-integers/](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
+## The Problem: [Hackerrank Link](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
 <br>
