@@ -1,7 +1,7 @@
-# Compare the Triplets
+# 0 - Compare the Triplets
 
 <br>
 
-## The Problem: [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+## The Problem: [Link](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
 <br>
