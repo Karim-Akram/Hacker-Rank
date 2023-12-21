@@ -2,6 +2,6 @@
 
 <br>
 
-## The Problem: [Hackerrank Link](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+## The Problem: [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
 <br>
