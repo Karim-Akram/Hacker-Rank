@@ -1,4 +1,4 @@
-# 0 - Compare the Triplets
+# Compare the Triplets
 
 <br>
 
